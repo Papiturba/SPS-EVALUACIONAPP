@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "204762011852",
+    "project_id": "sps-music",
+    "storage_bucket": "sps-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204762011852:android:7e8821c3bbeda1ce15ca69",
+        "android_client_info": {
+          "package_name": "com.slippery.sps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204762011852-n43rgli25k4ionmvellivn0off4763lv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.slippery.sps",
+            "certificate_hash": "bd7531a6b9a96ef8a7302e97f21c2b2bd2d0546a"
+          }
+        },
+        {
+          "client_id": "204762011852-g9c1a8d8gj2itned7q0iukr9a2oh59g1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoJSNe450NClEtUgukYvGI1lI6bjTkYlk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204762011852-g9c1a8d8gj2itned7q0iukr9a2oh59g1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
